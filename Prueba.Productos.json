@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6531f79aadcf81cbd1952b9e"
+  },
+  "NomProducto": "Producto1",
+  "Valor": 1000,
+  "Descripcion": "liquido",
+  "Disponibilidad": true,
+  "storeId": 1
+},
+{
+  "_id": {
+    "$oid": "6531f7dcadcf81cbd1952b9f"
+  },
+  "NomProducto": "Producto2",
+  "Valor": 3000,
+  "Descripcion": "liquido",
+  "Disponibilidad": false,
+  "storeId": 1
+},
+{
+  "_id": {
+    "$oid": "6531f7f9adcf81cbd1952ba0"
+  },
+  "NomProducto": "Producto3",
+  "Valor": 5600,
+  "Descripcion": "solido",
+  "Disponibilidad": true,
+  "storeId": 2
+},
+{
+  "_id": {
+    "$oid": "654479517101a8c3930d115d"
+  }
+},
+{
+  "_id": {
+    "$oid": "65447f455091c351660d6659"
+  }
+},
+{
+  "_id": {
+    "$oid": "6544804e5091c351660d665c"
+  }
+},
+{
+  "_id": {
+    "$oid": "654480a95091c351660d665f"
+  }
+},
+{
+  "_id": {
+    "$oid": "654480bc5091c351660d6662"
+  }
+},
+{
+  "_id": {
+    "$oid": "654480e65091c351660d6665"
+  }
+}]
